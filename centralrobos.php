@@ -1,6 +1,9 @@
 <?php
 
 
+if ($_SERVER['REQUEST_METHOD'] == $_POST) {
+    $_nomeRobo = $_POST 
+}
 
 
 ?>
