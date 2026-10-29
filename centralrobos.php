@@ -20,6 +20,9 @@ if ($_SERVER['REQUEST_METHOD'] == $_POST) {
 <body>
 
     <form action="">
+        <h2>Cadastro de robôs</h2>
+        <br><br/>
+
         <input id="nomeRobo" name="nomeRobo"><input/>
         <input id="modeloRobo" name="modeloRobo"><input/>
         <input id="nomeOperador" name="nomeOperador"><input/>
